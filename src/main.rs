@@ -107,6 +107,7 @@ impl App {
             }
         }
         println!("R: {} G: {} B: {}", color.r, color.g, color.b);
+        println!("COLOR_CODE: #{:02X}{:02X}{:02X}", color.r, color.g, color.b);
     }
 }
 
