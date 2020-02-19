@@ -4,6 +4,8 @@ This application is simple RGB color checker.
 
 You can adjust the color while looking at it and see the result.
 
+<img src="./imgs/color-checker-example.gif" alt="color checker example">
+
 ## Usage
 
 Pressed keyboard.
